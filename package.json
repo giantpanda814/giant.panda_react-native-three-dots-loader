@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/giantpanda814/giant.panda_react-native-three-dots-loader"
   },
   "keywords": [
     "giant.panda react native three dots loader",
@@ -12,8 +12,11 @@
     "react-native",
     "loader",
     "animated loader",
-    "tree dots loader"
+    "tree dots loader",
+    "useNativeDriver",
+    "key"
   ],
   "author": "giant.panda <giant.panda814@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/giantpanda814/giant.panda_react-native-three-dots-loader"
 }
