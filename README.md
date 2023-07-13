@@ -1,4 +1,4 @@
-# react-native-three-dots-loader
+# giant.panda_react-native-three-dots-loader
 
 Simple three dots loader for react native without any warning
 
