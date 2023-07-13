@@ -1,0 +1,19 @@
+{
+  "name": "giant.panda_react-native-three-dots-loader",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "giant.panda react native three dots loader",
+    "react-component",
+    "react-native",
+    "loader",
+    "animated loader",
+    "tree dots loader"
+  ],
+  "author": "giant.panda <giant.panda814@gmail.com>",
+  "license": "MIT"
+}
